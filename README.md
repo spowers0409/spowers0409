@@ -9,15 +9,15 @@
 <p align="center">I would like to change the World but they won't give me the source code
   
   <!-- Social Network -->
-<h1 align="center">
+<!-- <h1 align="center">
 <a href="https://www.instagram.com/lunox.code/">
   <img align="center" 
        alt="Lunox's Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
+  </a> -->
   
-<a href="https://www.linkedin.com/in/lunox/">
+<a href="https://www.linkedin.com/in/samuelpowers/">
   <img align="center" 
        alt="Linkdein" 
        width="22px" 
