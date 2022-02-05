@@ -14,14 +14,7 @@
   
   <!-- Social Network -->
 <!--  Social media quote  -->
-  <p align="center">Follow my professional pages <h1 align="center">
-<a href="https://www.instagram.com/odinstechworld/">
-  <img align="center" 
-       alt="Lunox's Instagram" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
-    and the things I like to 3D print!!
+  <p align="center">Follow my professional pages and the things I like to 3D print!!
 
 <h1 align="center">
 <a href="https://www.instagram.com/odinstechworld/">
