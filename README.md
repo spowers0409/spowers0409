@@ -18,7 +18,7 @@
 ## 👨‍💻 About Me
 
 - 🚀 I'm a **Software Engineer** passionate about **Web Development, AI, and Finance Tech**.  
-- 🛠️ Currently **building BudgetGuardian**, a smart budgeting tool.  
+- 🛠️ Currently building **BathroomBuddy**, an app for viewing the best rated public bathrooms.  
 - 📈 Exploring **SPY Options Trading Platform** development.  
 - 🔍 Interested in **AI-powered automation, ML, and financial analytics**.  
 - 🎯 My goal? **Become fully independent & work for myself!**  
@@ -40,6 +40,12 @@
 - ✅ **Trading Strategy Analysis**
 - 🔜 **Automated Trading (Exploring AI/ML integration)**
 
+### **📱 BathroomBuddy Mobile Application**
+**A mobile applicaiton to help users find the best quality bathrooms during their travels.**
+- ✅ **1-5 Star Ratings**
+- ✅ **Public Reviews**
+- ✅ **View Whether a Bathroom Offers Disability Access or Baby Changing Stations**
+- ✅ **Save The Locations That You Love The Most!**
 ---
 
 ## 🛠️ Tech Stack
@@ -62,7 +68,7 @@
 
 ### **📱 Mobile Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,java,androidstudio" alt="Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=swift,java,androidstudio,react,js" alt="Mobile Stack" />
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode Badge" />
 </p>
 
