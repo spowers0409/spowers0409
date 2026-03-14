@@ -60,7 +60,4 @@ Git, GitHub, Jenkins, Vercel
 
 ## Connect
 
-- GitHub: [spowers0409](https://github.com/spowers0409)
-- Discord: [odinissecure6](https://discord.com/users/odinissecure6)
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-linkedin)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Portfolio: [iamsam](https://iamsam.dev)
